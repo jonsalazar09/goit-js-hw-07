@@ -1,4 +1,4 @@
-import { galleryItems } from './gallery-items';
+import { galleryItems } from './gallery-items.js';
 // Change code below this line
 const imageGallery = document.querySelector('.gallery');
 const cardsMarkup = createImageCardsMarkup(galleryItems);
